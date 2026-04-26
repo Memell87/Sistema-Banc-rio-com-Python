@@ -1,3 +1,4 @@
+<img width="1343" height="874" alt="Animação" src="https://github.com/user-attachments/assets/d17806ce-633f-478b-8372-3e76bdcf24ba" />
 # Sistema-Banc-rio-com-Python
 Criando um Sistema Bancário com Python Este projeto implementa um sistema bancário simples em Python, com funcionalidades básicas de depósito, saque, extrato e transferência entre contas. O objetivo é praticar conceitos fundamentais da linguagem e aplicar princípios de programação estruturada e orientada a objetos.
 # 🏦 Criando um Sistema Bancário com Python
